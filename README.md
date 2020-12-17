@@ -1,14 +1,19 @@
-# peer2peer.exchange
+# Peer 2 Peer Exchange
 
-## Under Construction
+The [Peer 2 Peer Exchange](https://peer2peer.exchange) serves as a starting point for an upcoming Hackathon on Peer 2 Peer collaboration.
 
-## Using GitHub Pages IP Addresses
+In case of any feedback, please raise an issue on this repository.
+
+## Frontend
+### Using GitHub Pages
+**IP Addresses:**  
 185.199.108.153  
 185.199.109.153  
 185.199.110.153  
 185.199.111.153  
 
-### Background Info
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site
 
 
+## Backend
+Smart Contracts + Deno & Web3  
