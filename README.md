@@ -1,6 +1,6 @@
 # Peer 2 Peer Exchange
 
-The [Peer 2 Peer Exchange](https://peer2peer.exchange) serves as a starting point for an upcoming Hackathon on Peer 2 Peer collaboration.
+The [Peer 2 Peer Exchange](https://peer2peer.exchange) serves as a starting point for an upcoming Hackathon on Peer 2 Peer value exchange.
 
 In case of any feedback, please raise an issue on this repository.
 
