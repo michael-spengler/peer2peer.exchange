@@ -17,3 +17,10 @@ https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages
 
 ## Backend
 Smart Contracts + Deno & Web3  
+
+
+## Links which might be helpful
+1. https://docs.chain.link/docs/ethereum-addresses
+
+
+
