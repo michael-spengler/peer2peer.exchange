@@ -21,7 +21,7 @@ Smart Contracts + Deno & Web3
 
 ## Links which might be helpful
 1. https://docs.chain.link/docs/ethereum-addresses  
-2. Video on a chainlink based Dapp: https://www.youtube.com/watch?v=YLmMNocc1ys
-
+2. Video on a chainlink based Dapp: https://www.youtube.com/watch?v=YLmMNocc1ys  
+3. Off-Chain data provisioning and inter-blockchain interoperability: https://www.youtube.com/watch?v=-pUR9WPIrX0
 
 
